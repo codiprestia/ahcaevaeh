@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaengeixo.kimtodak.kr/sitemap.xml
